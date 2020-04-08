@@ -1,0 +1,27 @@
+{
+  "name": "codenation_criptografia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "nodemon": "^2.0.2",
+    "sucrase": "^3.13.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cross-blob": "^1.2.2",
+    "form-data": "^3.0.0",
+    "js-sha1": "^0.6.0",
+    "superagent": "^5.2.2"
+  }
+}

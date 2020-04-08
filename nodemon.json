@@ -1,0 +1,6 @@
+{
+  "ignore": ["*.json"],
+  "execMap": {
+    "js": "node -r sucrase/register"
+  }
+}
