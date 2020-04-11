@@ -22,7 +22,6 @@ export default async () => {
 
   try {
     // informe o token
-  // 70e001850eea74d8f7bb943658aa2beb5fd8f4f6 - meu token
 
     const token = await askQuestion('Informe o Token:');
 
